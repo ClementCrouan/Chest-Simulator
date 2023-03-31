@@ -12,3 +12,7 @@ Collection:
 
 Coffres:
 ![image](https://user-images.githubusercontent.com/129319404/229232842-d624b192-a558-4ce3-b5e8-fb56569f05bf.png)
+
+
+Débloquer des nouvelles cartes:
+![image](https://user-images.githubusercontent.com/129319404/229234193-fc0cc9ff-637d-43cb-8d4a-69a50dea5f32.png)
