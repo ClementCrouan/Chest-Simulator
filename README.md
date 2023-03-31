@@ -8,3 +8,7 @@ Boutique:
 
 Collection:
 ![image](https://user-images.githubusercontent.com/129319404/229232258-f646e7df-078d-4d7d-9037-61a5a2a41f9b.png)
+
+
+Coffres:
+![image](https://user-images.githubusercontent.com/129319404/229232842-d624b192-a558-4ce3-b5e8-fb56569f05bf.png)
